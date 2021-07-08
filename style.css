@@ -1,0 +1,57 @@
+h3{
+    color: rgb(40, 160, 160);
+}
+}
+ol,ul{
+    color: darkolivegreen
+}
+a:hover{
+    color: rgb(29, 10, 82);
+    text-emphasis: none;
+}
+li,em{
+    color:cornsilk;
+}
+    
+}
+a[ href="page2.html.html"]{
+    outline: auto;
+}
+.background{
+    background-image: url("img.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+h1{
+    color: cyan; font: size 40px;
+    
+    
+}
+.text{
+    padding: 20px;
+    border: 10px red;
+    margin: 20px;
+    background-color: royalblue;
+    
+
+}
+
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:15px 30px
+    font: size 17px;
+    padding: 8px
+
+}
+.container{
+    background-color: #f2f2f2;
+    padding: 5px 20px 15px 20px;
+    border:1px solid lightgray;
+    border: 4px;
+
+
+}
+style 
+
+
